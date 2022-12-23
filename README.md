@@ -1,4 +1,5 @@
 # Automated CI/CD Pipeline For Django Web Application Using Github,Docker,Jenkins and AWS EC2
+Created a real-time CI/CD pipeline of a Django App on Jenkins using GitHub Integration , Docker and AWS EC2.
 
 
 
