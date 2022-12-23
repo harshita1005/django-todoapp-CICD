@@ -1,5 +1,5 @@
-# django-todo
-A simple todo app built with django
+# Automated CI/CD Pipeline For Django Web Application Using Github,Docker,Jenkins and AWS EC2
+
 
 
 #download django
